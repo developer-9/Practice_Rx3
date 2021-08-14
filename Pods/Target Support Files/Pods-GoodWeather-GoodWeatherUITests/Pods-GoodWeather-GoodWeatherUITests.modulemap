@@ -1,0 +1,6 @@
+framework module Pods_GoodWeather_GoodWeatherUITests {
+  umbrella header "Pods-GoodWeather-GoodWeatherUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
